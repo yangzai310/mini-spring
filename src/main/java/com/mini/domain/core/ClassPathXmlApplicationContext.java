@@ -41,7 +41,8 @@ public class ClassPathXmlApplicationContext {
 
     private void initBeanDefinitions() throws Exception {
         for (BeanDefinition beanDefinition : beanDefinitionList) {
-            Object obj = Class.forName(beanDefinition.getClassName()).newInstance();
+            Class<?> aClass = Class.forName(beanDefinition.getClassName());
+            Object obj = aClass.newInstance();
             beanDefinitionMap.put(beanDefinition.getId(), obj);
         }
     }

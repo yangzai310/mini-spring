@@ -1,6 +1,5 @@
 package com.mini.domain.core;
 
-
 public class BeanDefinition {
 
     private String id;

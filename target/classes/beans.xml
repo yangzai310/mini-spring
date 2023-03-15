@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <beans>
-    <bean id = "userService" class = "com.mini.domain.IUserService"></bean>
+    <bean id = "userService" class = "com.mini.domain.UserServiceImpl"></bean>
 </beans>
