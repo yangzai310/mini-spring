@@ -1,5 +1,5 @@
+import com.mini.context.ClassPathXmlApplicationContext;
 import com.mini.domain.IUserService;
-import com.mini.domain.core.ClassPathXmlApplicationContext;
 
 public class MiniSpringApplication {
 

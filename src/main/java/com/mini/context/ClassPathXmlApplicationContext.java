@@ -1,5 +1,6 @@
-package com.mini.domain.core;
+package com.mini.context;
 
+import com.mini.domain.core.BeanDefinition;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;

@@ -1,4 +1,4 @@
-package com.mini.domain.core;
+package com.mini.beans;
 
 public class BeanDefinition {
 
