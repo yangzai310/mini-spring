@@ -1,5 +1,5 @@
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/context/ClassPathXmlApplicationContext.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/UserServiceImpl.java
-/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/core/ClassPathXmlApplicationContext.java
-/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/core/BeanDefinition.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/BeanDefinition.java
 /Users/wangchunyang/study/mini-spring/src/main/java/MiniSpringApplication.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/IUserService.java

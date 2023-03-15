@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98995bf7-4834-47bf-8290-ab1d60d8d521" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MiniSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MiniSpringApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mini/domain/core/BeanDefinition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mini/domain/core/ClassPathXmlApplicationContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mini/beans/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mini/beans/BeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mini/context/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mini/context/ClassPathXmlApplicationContext.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +105,7 @@
       <workItem from="1678865142237" duration="1409000" />
       <workItem from="1678869526594" duration="89000" />
       <workItem from="1678869641643" duration="4135000" />
-      <workItem from="1678873936306" duration="2113000" />
+      <workItem from="1678873936306" duration="2329000" />
     </task>
     <servers />
   </component>
