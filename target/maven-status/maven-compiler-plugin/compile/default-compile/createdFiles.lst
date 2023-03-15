@@ -1,0 +1,5 @@
+MiniSpringApplication.class
+com/mini/domain/core/BeanDefinition.class
+com/mini/domain/core/ClassPathXmlApplicationContext.class
+com/mini/domain/IUserService.class
+com/mini/domain/UserServiceImpl.class
