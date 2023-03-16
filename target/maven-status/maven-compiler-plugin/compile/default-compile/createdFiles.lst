@@ -1,5 +1,11 @@
-MiniSpringApplication.class
+com/mini/beans/XmlBeanDefinitionReader.class
+com/mini/beans/BeanFactory.class
 com/mini/beans/BeanDefinition.class
 com/mini/domain/IUserService.class
+MiniSpringApplication.class
 com/mini/context/ClassPathXmlApplicationContext.class
 com/mini/domain/UserServiceImpl.class
+com/mini/beans/Resource.class
+com/mini/beans/SimpleBeanFactory.class
+com/mini/beans/ClassPathXmlResource.class
+com/mini/beans/BeansException.class

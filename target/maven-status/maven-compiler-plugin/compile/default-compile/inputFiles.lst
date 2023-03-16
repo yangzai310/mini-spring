@@ -1,5 +1,11 @@
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/BeansException.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/SimpleBeanFactory.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/BeanFactory.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/context/ClassPathXmlApplicationContext.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/UserServiceImpl.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/XmlBeanDefinitionReader.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/BeanDefinition.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/ClassPathXmlResource.java
+/Users/wangchunyang/study/mini-spring/src/main/java/com/mini/beans/Resource.java
 /Users/wangchunyang/study/mini-spring/src/main/java/MiniSpringApplication.java
 /Users/wangchunyang/study/mini-spring/src/main/java/com/mini/domain/IUserService.java
